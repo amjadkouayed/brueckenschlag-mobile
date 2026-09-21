@@ -1,4 +1,4 @@
-# Brückenschlag – Mobile
+# Linde – Mobile
 
 Connects seniors with (international) students for language exchange, company and cultural exchange.
 Expo app, tested with Expo Go. The web app and the database schema live in `brueckenschlag-web`.
