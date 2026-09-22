@@ -9,7 +9,7 @@ Requires Node 20+ and the Expo Go app on your phone.
 
 ```bash
 npm install
-cp .env.example .env.local   # then fill in Supabase URL + publishable key (same project as web)
+cp .env.example .env.local   # then fill in Supabase URL + anon/publishable key (same project as web)
 npx expo start               # scan the QR code with Expo Go
 ```
 
